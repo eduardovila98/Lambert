@@ -1,2 +1,2 @@
 # Lambert
-A simple optimiser of  two-impulse, interplanetary trajectories.
+A simple optimiser for  two-impulse, interplanetary trajectories.
